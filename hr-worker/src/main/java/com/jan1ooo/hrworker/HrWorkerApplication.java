@@ -1,4 +1,4 @@
-package com.jan1oo.hrworker;
+package com.jan1ooo.hrworker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
