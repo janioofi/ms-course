@@ -39,7 +39,7 @@ public class WorkerResource {
 //		} catch (InterruptedException e) {
 //			e.printStackTrace();
 //		}
-		
+//		
 		logger.info("PORT = " + env.getProperty("local.server.port"));
 		
 		return ResponseEntity.ok().body(repository.findById(id).get());
